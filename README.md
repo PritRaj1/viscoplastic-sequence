@@ -1,4 +1,4 @@
-# Wav-KAN Sequence
+# Viscoplastic sequence models
 
 MLP and Wavelet KAN implementations of the Transformer and Recurrent Neural Operator (RNO) in Julia, applied to a 1D viscoelastic unit cell problem (strain-to-stress mapping).
 
